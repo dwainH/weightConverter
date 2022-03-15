@@ -32,6 +32,7 @@ public class main {
 		System.out.println("(Excercise 7)The weight on mars is " + marsweight );
 		
 		//declaration of weight list for excercise 8
+		System.out.println("(Excercise 8)Enter the value in the list.");
 		weightOnMarsList list = new weightOnMarsList();
 		double[] weightList = list.returnArray();
 		
