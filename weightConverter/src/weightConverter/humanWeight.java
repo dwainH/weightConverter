@@ -1,3 +1,4 @@
+package weightConverter;
 public class humanWeight {
 	private double earthWeight;
 	
